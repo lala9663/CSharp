@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\lala9663\\C# \uAE30\uCD08 \uBB38\uBC95\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACE0C47-D20A-4ED0-9FAD-97DA4BAFA54F}|C# \uAE30\uCD08 \uBB38\uBC95\\C# \uAE30\uCD08 \uBB38\uBC95.csproj|c:\\lala9663\\c# \uAE30\uCD08 \uBB38\uBC95\\c# \uAE30\uCD08 \uBB38\uBC95\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACE0C47-D20A-4ED0-9FAD-97DA4BAFA54F}|C# \uAE30\uCD08 \uBB38\uBC95\\C# \uAE30\uCD08 \uBB38\uBC95.csproj|solutionrelative:c# \uAE30\uCD08 \uBB38\uBC95\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\lala9663\\C# \uAE30\uCD08 \uBB38\uBC95\\C# \uAE30\uCD08 \uBB38\uBC95\\Program.cs",
+              "RelativeDocumentMoniker": "C# \uAE30\uCD08 \uBB38\uBC95\\Program.cs",
+              "ToolTip": "C:\\lala9663\\C# \uAE30\uCD08 \uBB38\uBC95\\C# \uAE30\uCD08 \uBB38\uBC95\\Program.cs",
+              "RelativeToolTip": "C# \uAE30\uCD08 \uBB38\uBC95\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T06:36:47.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

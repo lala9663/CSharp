@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C# 기초 문법/1.0.0": {
+        "runtime": {
+          "C# 기초 문법.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C# 기초 문법/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
