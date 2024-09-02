@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\lala9663\\C# 기초 문법\\C# 기초 문법\\C# 기초 문법.csproj": {}
+    "C:\\공부 저장소\\CSharp\\CSharp\\C# 기초 문법.csproj": {}
   },
   "projects": {
-    "C:\\lala9663\\C# 기초 문법\\C# 기초 문법\\C# 기초 문법.csproj": {
+    "C:\\공부 저장소\\CSharp\\CSharp\\C# 기초 문법.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\lala9663\\C# 기초 문법\\C# 기초 문법\\C# 기초 문법.csproj",
+        "projectUniqueName": "C:\\공부 저장소\\CSharp\\CSharp\\C# 기초 문법.csproj",
         "projectName": "C# 기초 문법",
-        "projectPath": "C:\\lala9663\\C# 기초 문법\\C# 기초 문법\\C# 기초 문법.csproj",
+        "projectPath": "C:\\공부 저장소\\CSharp\\CSharp\\C# 기초 문법.csproj",
         "packagesPath": "C:\\Users\\lala9663\\.nuget\\packages\\",
-        "outputPath": "C:\\lala9663\\C# 기초 문법\\C# 기초 문법\\obj\\",
+        "outputPath": "C:\\공부 저장소\\CSharp\\CSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lala9663\\AppData\\Roaming\\NuGet\\NuGet.Config",
