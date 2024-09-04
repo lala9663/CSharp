@@ -12,3 +12,18 @@ C:\lala9663\C# 기초 문법\C# 기초 문법\obj\Debug\net8.0\refint\C# 기초 
 C:\lala9663\C# 기초 문법\C# 기초 문법\obj\Debug\net8.0\C# 기초 문법.pdb
 C:\lala9663\C# 기초 문법\C# 기초 문법\obj\Debug\net8.0\C# 기초 문법.genruntimeconfig.cache
 C:\lala9663\C# 기초 문법\C# 기초 문법\obj\Debug\net8.0\ref\C# 기초 문법.dll
+C:\공부 저장소\CSharp\CSharp\bin\Debug\net8.0\C# 기초 문법.exe
+C:\공부 저장소\CSharp\CSharp\bin\Debug\net8.0\C# 기초 문법.deps.json
+C:\공부 저장소\CSharp\CSharp\bin\Debug\net8.0\C# 기초 문법.runtimeconfig.json
+C:\공부 저장소\CSharp\CSharp\bin\Debug\net8.0\C# 기초 문법.dll
+C:\공부 저장소\CSharp\CSharp\bin\Debug\net8.0\C# 기초 문법.pdb
+C:\공부 저장소\CSharp\CSharp\obj\Debug\net8.0\C# 기초 문법.GeneratedMSBuildEditorConfig.editorconfig
+C:\공부 저장소\CSharp\CSharp\obj\Debug\net8.0\C# 기초 문법.AssemblyInfoInputs.cache
+C:\공부 저장소\CSharp\CSharp\obj\Debug\net8.0\C# 기초 문법.AssemblyInfo.cs
+C:\공부 저장소\CSharp\CSharp\obj\Debug\net8.0\C# 기초 문법.csproj.CoreCompileInputs.cache
+C:\공부 저장소\CSharp\CSharp\obj\Debug\net8.0\C# 기초 문법.sourcelink.json
+C:\공부 저장소\CSharp\CSharp\obj\Debug\net8.0\C# 기초 문법.dll
+C:\공부 저장소\CSharp\CSharp\obj\Debug\net8.0\refint\C# 기초 문법.dll
+C:\공부 저장소\CSharp\CSharp\obj\Debug\net8.0\C# 기초 문법.pdb
+C:\공부 저장소\CSharp\CSharp\obj\Debug\net8.0\C# 기초 문법.genruntimeconfig.cache
+C:\공부 저장소\CSharp\CSharp\obj\Debug\net8.0\ref\C# 기초 문법.dll
