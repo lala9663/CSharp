@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\공부 저장소\\CSharp\\CSharp\\C# 기초 문법.csproj",
+      "projectUniqueName": "C:\\Users\\lala9663\\RiderProjects\\CSharp\\CSharp\\C# 기초 문법.csproj",
       "projectName": "C# 기초 문법",
-      "projectPath": "C:\\공부 저장소\\CSharp\\CSharp\\C# 기초 문법.csproj",
+      "projectPath": "C:\\Users\\lala9663\\RiderProjects\\CSharp\\CSharp\\C# 기초 문법.csproj",
       "packagesPath": "C:\\Users\\lala9663\\.nuget\\packages\\",
-      "outputPath": "C:\\공부 저장소\\CSharp\\CSharp\\obj\\",
+      "outputPath": "C:\\Users\\lala9663\\RiderProjects\\CSharp\\CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lala9663\\AppData\\Roaming\\NuGet\\NuGet.Config",

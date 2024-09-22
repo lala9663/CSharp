@@ -32,5 +32,6 @@ public class Study
         
         string message1 = $"당신의 HP는 {hp} / {maxHp}입니다";
         Console.WriteLine(message1);
+        
     }
 }
