@@ -3,3 +3,4 @@ C# 배우기
 
 
 
+http://choesin.com/2022%EB%85%84-%EC%97%B0%EB%B4%89%EC%9D%B4-%EA%B0%80%EC%9E%A5-%EB%86%92%EC%9D%80-it-%EC%A7%81%EC%97%85-10%EA%B0%80%EC%A7%80
